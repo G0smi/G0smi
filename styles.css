@@ -1,18 +1,21 @@
-body{
-   background-color: lightcoral; 
+body {
+    background-color: lightcoral;
 }
-h1.parem{
-    color:aliceblue;
-    text-align:center;
-    font-size:30px;
+
+h1.parem {
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
 }
-h1{
-    color:whitesmoke;
-    font-family: Arial, Helvetica, sans-serif ;
+
+h1 {
+    color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: end;
 }
-p{
-    color:magenta;
+
+p {
+    color: magenta;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2ch;
     text-align: center;
